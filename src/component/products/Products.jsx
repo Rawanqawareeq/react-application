@@ -1,5 +1,5 @@
 import React from 'react'
-import Product from '../product/product'
+import Product from '../Product/Product.jsx'
 
 export default function Products() {
     const producrs =[
